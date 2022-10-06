@@ -1,0 +1,31 @@
+name: Recipe Maker Clone
+tags: ['HTML/CSS', 'JavaScript', 'React']
+starter-files: https://github.com/codedamn-projects/eventually-stunning-html5-landing-page # TODO
+type: frontend
+level: hard
+cover-image: https://raw.githubusercontent.com/codedamn-projects/eventually-stunning-html5-landing-page/master/designs/Landing%20Page%20%5BDesktop%5D.jpg # TODO
+short-description: A recipe maker project to sharpen your React skills as a beginner and help you to understand many concepts in React.
+long-description: |
+  Your challenge is to build out this Recipe Maker project and get it looking as close to the design as possible.
+
+  Primary goal of this project to get better at JavaScript/React skills. Creating a good design with HTML and CSS is a bonus! 
+
+  You can use any tools you like to help you complete this project. So if you've got something you'd like to practice, feel free to give it a go.
+
+  Your users should be able to:
+
+  - Try to implement all features implemented in live demo: https://recipe-maker.netlify.app  
+
+  - Download the starter code and go through the README.md file.
+
+  The `README.md` file will provide further details about the project. The `style-guide.html` file is where you'll find colors, fonts, etc.
+
+  Don't forget to share your submissions with the community to get feedback. All the best.
+
+# https://codedamn.com/projects specific section
+codedamn:
+  helper-learning-path: frontend
+  show-community-banner: true
+  playground-layout: terminal-editor-browser
+  playground-image: html # TODO
+  guided: true
