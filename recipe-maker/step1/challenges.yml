@@ -1,0 +1,7 @@
+name: 'Get Recipe Items from API and render RecipeItems list'
+stepId: step1
+stepBreakDown:
+  - text: 'Add Spoonacular API to fetch recipes on Search button click'
+  - text: 'Add RecipeItem Card'
+  - text: 'Add support to render entire list of RecipeItem Cards'
+  - text: 'Add Basic CSS Asthetics to render the RecipeItem cards list'

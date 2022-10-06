@@ -1,0 +1,6 @@
+name: 'DIY - Sign in with Google : Bonus & Redux Store (Optional)'
+stepId: step5
+stepBreakDown:
+  - text: 'Add Sign In With Google Button (Search on npmjs.com)'
+  - text: 'Once user is autheticated, redirect user to home page of recipe maker'
+  - text: 'To fulfill the above step, use React Router'

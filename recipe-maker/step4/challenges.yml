@@ -1,0 +1,6 @@
+name: 'Create Like Recipe Menu'
+stepId: step0
+stepBreakDown:
+  - text: 'Click on the Heart shape on Recipe Detail page section should add current recipe in Recipe Like Section (Top Right Hear shape icon)'
+  - text: 'On hover of that heart icon, render the list of liked recipes'
+  - text: 'Toggle on Heart icon on Recipe Detail menu should add/remove recipe from Like Recipe List'

@@ -1,0 +1,8 @@
+name: 'Create Basic HTML Structure & CSS Asthetics'
+stepId: step0
+stepBreakDown:
+  - text: 'Add Search Bar'
+  - text: 'Add Left Recipe List Container'
+  - text: 'Add Recipe Detail Container'
+  - text: 'Add Shopping List Container'
+  - text: 'Add Basic CSS Asthetics to the entire page'

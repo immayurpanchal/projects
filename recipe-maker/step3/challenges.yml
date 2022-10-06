@@ -1,0 +1,7 @@
+name: 'Create Add to Shopping List section'
+stepId: step3
+stepBreakDown:
+  - text: 'Click on Add to Shopping List button on Recipe Details section should add items in the shopping list section'
+  - text: 'Use React Context API to transfer data from Recipe Details component to Add to Shopping List section component'
+  - text: 'On mouse hover of specific shopping list item, show cancel button to remove that item from shopping list'
+  - text: 'Clicking on cancel button should remove that particular item from shopping list'

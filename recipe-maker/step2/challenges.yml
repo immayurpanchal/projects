@@ -1,0 +1,8 @@
+name: 'Get Selected RecipeItem details'
+stepId: step2
+stepBreakDown:
+  - text: 'On Click of RecipeItem, Fetch Recipe details from API'
+  - text: 'Click on any RecipeItem on the left list should show details in the middle view (Recipe Details Section)'
+  - text: 'Use React Context API to transfer the Data from one component to another for above step'
+  - text: 'Fetch large image of Recipe Item from API to show on Recipe Details Section'
+  - text: 'Add CSS Asthetics to Recipe Details section as shown in the Demo'
